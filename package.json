@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce_api_nodejs_application",
+  "version": "1.0.0",
+  "description": "Created A APi For An ECommerce Platform Admin To Manage Product Inventory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:/www.github.com/Dhareppahalli310807"
+  },
+  "author": "Dhareppa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
